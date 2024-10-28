@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.title {
+  font-size: 45px;
+  color: blue;
+  margin-bottom: 20px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  row-gap: 8px;
+  width: 300px;
+}
+_flex{
+  display: flex;
+}
